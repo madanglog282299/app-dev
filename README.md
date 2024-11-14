@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+# The Greatest Estate Developer
+*The Greatest Estate Developer* is a Korean webnovel written by **BK_Moon** and ilustrated byh **Manngi**. It was serialized on **Naver Series** from June 3rd, 2019 to November 12th, 2020. A manhwa adaptation adapted by Lee Hyunmin and illustrated by Kim Hyunsoo began on August 5th, 2021 on **Naver Webtoon**.
+
+When civil engineering student **Suho Kim** falls asleep reading a fantasy novel, he wakes up as a character in the book! Suho is now in the body of **Llyod Frontera**, a lazy noble who loves to drink, and whose family is in a mountain of debt. Using his engineering knowledge, Suho designs innovations to avert the terrible future that lies in wait for him. With the help of a giant hamster, a knight, and the world's magic, Suho will dig his new family out of debt and build a better future.
